@@ -18,3 +18,6 @@ function fetureDone2() {
 function fetureDone() {
     console.log('cả 2 + f_done');
 }
+function doneAll() {
+    console.log('done All');
+}
